@@ -25,8 +25,8 @@ Each third-party project remains subject to its own applicable license. PyMobile
 
 ## License
 
-PyMobileTools is dedicated to the public domain under the CC0 1.0 Universal Public Domain Dedication, to the extent permitted by law.
+PyMobileTools is licensed under the MIT License.
 
-You are free to copy, modify, distribute, use, and sell PyMobileTools without permission or attribution, subject to the rights and licenses applicable to third-party software included with or used by the project.
+You are free to copy, modify, distribute, use, and sell PyMobileTools without permission, subject to the terms of the MIT License.
 
-See the `LICENSE` file for the full CC0 1.0 Universal text.
+See the `LICENSE` file for the full MIT License text.
